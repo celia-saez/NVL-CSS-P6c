@@ -9,10 +9,25 @@
     <h2> Rica y muy sencilla</h2>
     <p>Una de las recetas más sencillas y sanas que hay, sin duda, es una crema de calabacín. Con tan sólo 4 o 5 ingredientes humildes, se puede elaborar un plato sabroso y muy económico.</p>
     <p><strogn>Ingredientes:</strogn></p>
-<ul>
-   <li>la tecnología</li>
-   <li>la formación</li>
-   <li>la comunidad de personas que se desarrollan día a día</li> 
-</ul>
+  <ul>
+   <li>1/2 cebolla, en cuartos</li>
+   <li>2 dientes de ajo</li>
+   <li>3 calabacines medianos, en trozos grandes</li>
+   <li>3 c700 ml de caldo de pollo o vegetal (o la misma cantidad de agua con 2 pastillas de caldo)</li>
+   <li>3 cucharadas de aceite de oliva virgen</li> 
+   <li>7 quesitos</li>
+   <li>Sal y pimienta negra a gusto</li>
+   <li>Sal y pimienta negra a gusto</li>
+   <li>Queso parmesano rallado para decorar (opcional)</li>
+  </ul>
+  <p><strogn>Paso 1.</strogn> En una cazuela grande, agrega el caldo (o el agua con las patillas de caldo), el aceite de oliva virgen, la cebolla, el ajo y el calabacín. Ponlo a calentar a fuego medio, tápalo y deja que empiece a hervir. En el momento en que llegue a ebullición, reduce la temperatura.</p>
+  <p><strogn>Paso 2.</strogn> Deja que siga cocinero todo con la tapa puesta, removiendo los ingredientes ocasionalmente durante unos 20 minutos, hasta que todos los componentes estén tiernos (pincha con un tenedor los vegetales para ver si están bien cocidos).</p>
+  <p><strogn>Paso 3.</strogn> Retira del fuego la cazuela, incorpora los quesitos y, en la misma cazuela, bate todo el contenido con una batidora de mano, hasta que todo esté fino y no tenga ningún tropiezo.</p>
+  <p><strogn>Paso 4.</strogn> Sazona la crema de calabacín con sal y pimienta negra al gusto, rectificando si es necesario, y sírvelo caliente en platos individuales, con un poco de queso parmesano rallado por encima.</p>
   </body>
 </html>
+
+h1 {
+   color: Black;
+   background-color: red;
+}
