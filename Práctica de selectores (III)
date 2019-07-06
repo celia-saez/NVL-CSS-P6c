@@ -24,10 +24,42 @@
   <p><strogn>Paso 2.</strogn> Deja que siga cocinero todo con la tapa puesta, removiendo los ingredientes ocasionalmente durante unos 20 minutos, hasta que todos los componentes estén tiernos (pincha con un tenedor los vegetales para ver si están bien cocidos).</p>
   <p><strogn>Paso 3.</strogn> Retira del fuego la cazuela, incorpora los quesitos y, en la misma cazuela, bate todo el contenido con una batidora de mano, hasta que todo esté fino y no tenga ningún tropiezo.</p>
   <p><strogn>Paso 4.</strogn> Sazona la crema de calabacín con sal y pimienta negra al gusto, rectificando si es necesario, y sírvelo caliente en platos individuales, con un poco de queso parmesano rallado por encima.</p>
+  <img src="foto crema calabacín.png" alt="Crema calabacín">
   </body>
 </html>
 
-h1 {
+#conten h1 {
    color: Black;
    background-color: red;
+   font-style: Bold;
+   font-family: Helvetica;
+}
+#content h2 {
+   color: Black;
+   font-style: regular;
+   font-family: Helvetica;
+}
+#conten p {
+   color: grey;
+   font-style: light;
+   font-family: Helvetica;
+   font-size: 2em;
+}
+[calabacín] {
+   color: green; 
+}
+[ajo] {
+   color: yellow; 
+}
+[cebolla] {
+   color: orange; 
+}
+[caldo] {
+   color: blue; 
+}
+[aceite de oliva] {
+   color: red; 
+}
+[quesitos] {
+   color: pink; 
 }
